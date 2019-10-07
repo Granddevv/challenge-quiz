@@ -1,0 +1,9 @@
+.quiz-header-progress-container {
+  width: 100%;
+  height: 20px;
+
+  .quiz-header-progress-active {
+    height: 100%;
+    background-color: #61dafb;
+  }
+}
